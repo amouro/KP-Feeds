@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the KP Article and Categrory Aggregator feature.
+ */
+
+include_once 'kp_article_and_categrory_aggregator.features.inc';
